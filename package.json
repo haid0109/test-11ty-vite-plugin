@@ -1,0 +1,23 @@
+{
+  "name": "test-11ty-vite-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haid0109/test-11ty-vite-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haid0109/test-11ty-vite-plugin/issues"
+  },
+  "homepage": "https://github.com/haid0109/test-11ty-vite-plugin#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0-beta.3",
+    "@11ty/eleventy-plugin-vite": "^4.0.0"
+  }
+}
